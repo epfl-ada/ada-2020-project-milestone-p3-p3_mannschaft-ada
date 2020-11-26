@@ -1,19 +1,23 @@
 # P3 milestone
 
-## Title
+## Predicting Civil War Onset : What about Support Vector Machine (SVM) and Least Square ?
 
 ## Abstract
 
-A 150 word description of the project idea, goals, datasets used. What's the motivation behind your project? How do you propose to extend the analysis from the paper? What story would you like to tell, and why? 
+At the end of their paper, the authors state that "the analyses [...] show that Random Forests offers superior predictve power compared to several forms of logistic regression". Then, when we read the paper, we asked ourselves : why the authors only used Logistic Regression and Random Forest methods ? In this extension we will therefore try to compare Random Forest and Logistic Regression to some other methods as Support Vector Machine (SVM) and Least Square. In our analysis, we will try to compare the accuracy of our models with the models of the paper by comparing the AUCs, we will also try to compare the robustness and the complexity of all the methods to highlight the more efficient one. Finally, we will try to pinpoint the more important features when using our models. As a result, we will try to compare these features with the ones from Random Forests and then identify the most important ones in average.
 
 ## Research Questions
 
-A list of research questions you would like to address during the project.
+1. Do Support Vector Machine (SVM) and least square methods are more accurate and/or more robust than the three Logistic Regression models used by the authors ?
+1. Is the Random Forest method still the best way to predict relevant data when it comes to civil war onsets ?
+1. Using SVM and Least Square, what are the most important features when predicting civil war onset ?
+
 ## Proposed dataset
 
-List the dataset(s) you want to use, and some ideas on how you expect to get, manage, process, and enrich it/them. Show us that you've read the docs and some examples, and that you have a clear idea on what to expect. Discuss data size and format if relevant. It is your responsibility to check that what you propose is feasible given the datasets at hand.
+Knowing that our study will compare our results to the ones of the paper, we will use the exact same dataset than the authors of the paper. As a result, the main dataset that we will use is the one provided by the TAs, the Sambanis Civil War dataset (https://drive.google.com/file/d/173N_XoRXsJBSHcL21xl5rDpdQ9LVAmhk/view?usp=sharing). A PDF document, provided with the dataset, details the meaning and few characteristics of all variables.
 
 ## Methods
+We are going to employ the least square regression and Support Vector Machine on the dataset with the same features as used by various authors to compare their accuracy. The implementations from scikit libraries are going to be used to construct the models and their regularised versions.   
 
 ## Proposed timeline
 In order to carry out this project, we have chosen to develop the project with the Agile methodology (SCRUM).
@@ -30,7 +34,7 @@ So we have three weeks to complete this project, we will have 3 sprints, with Sc
 
 The objective of our scrum meeting will be to review the progress of the project, to be able to bring solutions to a member who would have difficulties.
 
-Sprints are periods during which each member advances on his objectives determined at the scrum meeting. 
+Sprints are periods during which each member advances on his objectives determined at the scrum meeting.
 
 Our objective is to complete the project on 16/12, two days in advance.
 In case of problem, delay, these two days will allow us to finalize the project correctly.
@@ -48,4 +52,4 @@ In case of problem, delay, these two days will allow us to finalize the project 
 
 ## Questions for TAs
 
-Add here any questions you have for us related to the proposed project.
+Is it appropriate to apply the least square regression for a binary classification where there is a possibility of outliers?
