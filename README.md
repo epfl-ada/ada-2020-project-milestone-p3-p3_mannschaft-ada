@@ -16,10 +16,33 @@ List the dataset(s) you want to use, and some ideas on how you expect to get, ma
 ## Methods
 
 ## Proposed timeline
+In order to carry out this project, we have chosen to develop the project with the Agile methodology (SCRUM).
+So we have three weeks to complete this project, we will have 3 sprints, with Scrum Meeting between each sprint.
+
+
+| Date        |     26/11       |   27/11 - 04/12  | 04/12   | 04/12 - 11/12   | 11/12   | 11/12 - 16/12   | 11/12 - 16/12   |
+| ------------- |: -------------: |: -------:  | : -------: | : -------: | : -------: | : -------: | : -------: |
+| Sprint / Meeting       |        Scrum meeting 1        |      Sprint 1 |   Scrum meeting 2 |   Sprint 2 |   Scrum meeting 3 |   Sprint 3 |   Final Scrum meeting |
+| Objectives    |   -   |        Understanding of the subject, start of implementation        |      - |   Implementation and analysis of results  |   -   |   Finish the report and analysis of the results  |   -   |
+|               |   -   |        Data wrangling        |      - |   Data visualisation  |   -   |   Code cleaning   |   -   |
+|               |     -   |      Data visulisation        |      - |   Start of report writing |   -   |   -   |   -   |
+
+
+The objective of our scrum meeting will be to review the progress of the project, to be able to bring solutions to a member who would have difficulties.
+
+Sprints are periods during which each member advances on his objectives determined at the scrum meeting. 
+
+Our objective is to complete the project on 16/12, two days in advance.
+In case of problem, delay, these two days will allow us to finalize the project correctly.
 
 ## Organization within the team
 
-A list of internal milestones up until project milestone P4. Add here a sketch of your planning for the next project milestone.
+|             |     Sprint 1      |   Sprint 2   |   Sprint 3   |
+| ------------- |: -------------: |: -------:  | : -------: |
+| Anshul        |        -        |      - |   -   |
+| Hugo          |        -        |      - |   -   |
+| Reda          |        -        |      - |   -   |
+
 
 ## Questions for TAs
 
