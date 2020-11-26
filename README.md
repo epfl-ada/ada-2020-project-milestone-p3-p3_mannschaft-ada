@@ -37,17 +37,14 @@ In case of problem, delay, these two days will allow us to finalize the project 
 
 ## Organization within the team
 
-|               |     Sprint 1    |  Sprint 2  | Sprint 3  |
-| ------------- | : ------------: | : -------: | : ------: |
-| Anshul        |        -        |      -     |     -     |
-| Hugo          |        -        |      -     |     -     |
-| Reda          |        -        |      -     |     -     |
+| Names         | Sprint 1     | Sprint 2   | Sprint 3  |
+| ------------- | ------------ | ---------- | --------- |
+| Anshul        | -            | -          | -         |
+| Hugo          | -            | -          | -         |
+| Reda          | -            | -          | -         |
 
 
-| First Header  | Second Header |
-| ------------- | ------------- |
-| Content Cell  | Content Cell  |
-| Content Cell  | Content Cell  |
+
 
 ## Questions for TAs
 
