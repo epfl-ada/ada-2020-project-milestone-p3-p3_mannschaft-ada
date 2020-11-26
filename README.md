@@ -1,14 +1,14 @@
 # P3 milestone
 
 ## Title
-
+Predicting the onset of civil war
 ## Abstract
 
 A 150 word description of the project idea, goals, datasets used. What's the motivation behind your project? How do you propose to extend the analysis from the paper? What story would you like to tell, and why? 
 
 ## Research Questions
-
-A list of research questions you would like to address during the project.
+1) Is Support Vector Machine as accurate as Random Forest in terms of AUC ?
+2) Does employing least square regression help identify the same important features for the civil war onset?
 ## Proposed dataset
 
 List the dataset(s) you want to use, and some ideas on how you expect to get, manage, process, and enrich it/them. Show us that you've read the docs and some examples, and that you have a clear idea on what to expect. Discuss data size and format if relevant. It is your responsibility to check that what you propose is feasible given the datasets at hand.
