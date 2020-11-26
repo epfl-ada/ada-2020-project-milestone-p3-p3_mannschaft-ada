@@ -53,8 +53,8 @@ In case of problem, delay, these two days will allow us to finalize the project 
 
 | Names         | Sprint 1                              | Sprint 2              | Sprint 3                       |
 | ------------- | ------------------------------------- | --------------------- | ------------------------------ |
-| Anshul        | Data wrangling                        | Analyse results       | Write report and code cleaning |
-| Hugo          | Support Vector Machine                | Analyse results       | Write report and code cleaning |
+| Anshul        | Data wrangling                        | Analyze results       | Write report and code cleaning |
+| Hugo          | Support Vector Machine                | Analyze results       | Write report and code cleaning |
 | Reda          | AUC functions and least square method | Start to write report | Write report and code cleaning |
 
 
