@@ -44,6 +44,11 @@ In case of problem, delay, these two days will allow us to finalize the project 
 | Reda          |        -        |      - |   -   |
 
 
+| First Header  | Second Header |
+| ------------- | ------------- |
+| Content Cell  | Content Cell  |
+| Content Cell  | Content Cell  |
+
 ## Questions for TAs
 
 Add here any questions you have for us related to the proposed project.
