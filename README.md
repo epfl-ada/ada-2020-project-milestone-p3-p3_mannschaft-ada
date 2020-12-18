@@ -13,7 +13,7 @@ Finally, we will try to pinpoint the more important features when using our mode
 
 ## Research Questions
 
-1. Do **Support Vector Machine** (SVM) and **least square** methods are more accurate and/or more robust than the three Logistic Regression models used by the authors ?
+1. Are **Support Vector Machine** (SVM) ,**least square**, **Naive Bayes** and **Neural network** methods more accurate and/or more robust than the three Logistic Regression models used by the authors ?
 
 2. Is the **Random Forest** method still the best way to predict relevant data when it comes to civil war onsets ?
 
