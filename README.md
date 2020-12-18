@@ -17,7 +17,7 @@ Finally, we will try to pinpoint the more important features when using our mode
 
 2. Is the **Random Forest** method still the best way to predict relevant data when it comes to civil war onsets ?
 
-3. Using **SVM** and **Least Square**, what are the most important features when predicting civil war onset ?
+3. Using **Least Square**, what are the most important features when predicting civil war onset ?
 
 ## Proposed dataset
 
@@ -26,7 +26,7 @@ As a result, the main dataset that we will use is the one provided by the TAs, t
 A PDF document, provided with the dataset, details the meaning and few characteristics of all variables.
 
 ## Methods
-We are going to employ the least square regression and Support Vector Machine on the dataset with the same features as used by various authors to compare their accuracy.   
+We are going to employ the least square regression, Support Vector Machine, Naive Bayes algorithm and Neural networks on the dataset with the same features as used by various authors to compare their accuracy.   
 The implementations from scikit libraries are going to be used to construct the models and their regularised versions.   
 
 ## Proposed timeline
@@ -53,11 +53,8 @@ In case of problem, delay, these two days will allow us to finalize the project 
 
 | Names         | Sprint 1                              | Sprint 2              | Sprint 3                       |
 | ------------- | ------------------------------------- | --------------------- | ------------------------------ |
-| Anshul        | Data wrangling                        | Analyze results       | Write report and code cleaning |
-| Hugo          | Support Vector Machine                | Analyze results       | Write report and code cleaning |
+| Anshul        | Data wrangling, Neural network        | Analyze results       | Write report and code cleaning |
+| Hugo          | Support Vector Machine, Naive Bayes   | Analyze results       | Write report and code cleaning |
 | Reda          | AUC functions and least square method | Start to write report | Write report and code cleaning |
 
 
-## Questions for TAs
-
-Is it appropriate to apply the least square regression for a binary classification where there is a possibility of outliers?
