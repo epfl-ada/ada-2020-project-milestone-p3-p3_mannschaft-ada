@@ -1,12 +1,12 @@
 # P3 milestone
 
-## Predicting Civil War Onset : What about Support Vector Machine (SVM) and Least Square ?
+## Predicting Civil War Onset : What about other predicting methods ?
 
 ## Abstract
 
 At the end of their paper, the authors state that "the analyses [...] show that Random Forests offers superior predictve power compared to several forms of logistic regression". Then, when we read the paper, we asked ourselves : why the authors only used Logistic Regression and Random Forest methods ?   
 
-In this extension we will therefore try to compare Random Forest and Logistic Regression to some other methods as Support Vector Machine (SVM) and Least Square.   
+In this extension we will therefore try to compare Random Forest and Logistic Regression to some other methods as Support Vector Machine (SVM), Least Square, Neural Networks or Bayes classifer.   
 In our analysis, we will try to compare the accuracy of our models with the models of the paper by comparing the AUCs, we will also try to compare the robustness and the complexity of all the methods to highlight the more efficient one.   
 
 Finally, we will try to pinpoint the more important features when using our models. As a result, we will try to compare these features with the ones from Random Forests and then identify the most important ones in average.
